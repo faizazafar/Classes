@@ -10,3 +10,13 @@ export default class hello extends Component {
         )
     }
 }
+
+import React from 'react'
+
+export default function hello() {
+    return (
+        <div>
+            
+        </div>
+    )
+}
