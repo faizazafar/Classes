@@ -39,3 +39,8 @@ export default App
 
 //jb html k andr dobara js chahye ho to { } isme likhty
 //student k nam se array
+
+//2 tarah k imp hoty ik default ot ik specific
+//state is current comp value aur jo chez aarhi kahein se wo parent comp se aati jise hum prop kehty 
+//we cannot change parent state but can use only
+//flow is top to bottom
