@@ -5,7 +5,7 @@ const Mediacrad = (props) => {
         <div>
             <h2>{props.title}</h2>
             <p>{props.body}</p>
-            <img src={props.imageUrl} width={150} height={150}></img>
+            <img src={props.imageUrl} width={350} height={150}></img>
         </div>
     )
 }
