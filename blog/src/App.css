@@ -1,0 +1,10 @@
+.navbar {
+
+  display: flex;
+  background-color: aliceblue;
+  padding: 10px;
+}
+
+li {
+  list-style: none;
+}
